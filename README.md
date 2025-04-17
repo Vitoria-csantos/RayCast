@@ -1,7 +1,16 @@
 <h1>Atividade do RayCast</h1>
 
 <h2>Proposta</h2>
-<p>Decidimos fazer uma cena onde o Raycast é utilizado no clique do mouse. Na cena, os objetos a serem atingidos são três esferas que serão destruídas. Tais esferas são marcadas com a tag "target" pelo próprio Unity. </p>
+<p>Decidimos fazer uma cena onde o Raycast é utilizado no clique do mouse. Na cena, os objetos a serem atingidos são três esferas que serão destruídas. Tais esferas são marcadas com a tag "target" pelo próprio Unity. </p
+
+
+
+![1](https://github.com/user-attachments/assets/02f5ed15-e93f-43ca-92cd-7ccec49326ad)
+
+![2](https://github.com/user-attachments/assets/81348db5-924a-4358-8836-c98056f8856a)
+
+![3](https://github.com/user-attachments/assets/c13cd4ce-0527-4330-bffb-718d43c135e5)
+
 
 <h2>Código</h2>
 <p>Fora dos voids e dentro da classe "raio" as variáveis foram declaradas, as próprias variáveis do Raycast (ray e RayCast Hit), uma variável de cor e um Vector 2, pois o raio só tem dois eixos, logo, não é 3D.</p>
